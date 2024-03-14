@@ -6,5 +6,10 @@
 * ` Crase.
 * ' aspas simples.
 * " aspas duplas.
-* uma variavel pode ser guardada em let ou var.
+* Uma variavel pode ser guardada em let ou var.
+* Variáveis serve para guardar dados.
+* Não diferencia numero decimais de inteiros (number)
+* palavras (strings)
+* V e F (bolean).
+* null  nulo
 
